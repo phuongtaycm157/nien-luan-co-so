@@ -2,7 +2,7 @@
   "env": {
   	"PORT":8000,
     "MONGO_USER":"booking-user",
-		"MONGO_PASSWORD":"7ZOc4NljAVAfzW2Q",
+		"MONGO_PASSWORD":"qmGojCm9Zqe5lFUo",
     "MONGO_DB": "graphql-event-booking-dev",
     "SCRET_KEY":"somesupersecretkey"
   }
